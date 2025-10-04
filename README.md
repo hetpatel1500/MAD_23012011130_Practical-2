@@ -48,9 +48,10 @@ You’ll see **Log messages**, **Toasts**, and **Snackbars** for every state cha
 Examples of the UI and lifecycle logs:  
 
 <p float="left">
-  <img src="app/screen.png" alt="Screenshot 1" width="200"/>
-  <img src="app/Screenshot_20250906_190431.png" alt="Screenshot 3" width="200"/>
-  <img src="app/img.png" alt="Screenshot 2" width="800"/>
+  <img width="540" height="1200" alt="Screenshot_20250928_220146" src="https://github.com/user-attachments/assets/f521a66c-cd7e-4967-9ede-8e22ff138d6a" />
+
+  <img width="1460" height="170" alt="practical2 log" src="https://github.com/user-attachments/assets/3d4b8232-125d-4407-92dc-9fb2a2dda50b" />
+
 </p>  
 
 ---
